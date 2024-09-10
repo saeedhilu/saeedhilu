@@ -1,50 +1,37 @@
-## Hi there 👋 I'm Saeed!
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Saeed!;" />
+</h1>
 
-I'm a passionate **Full Stack Developer** specializing in **Python**, **React**, and building scalable web applications. I love creating efficient solutions and am always looking for new challenges to enhance my skills.
 
----
+<br/>
 
-### 🚀 What I'm currently working on
-- 🔭 Building a **Room Booking Platform** named **Zoomzzz**
-- 🛠️ Exploring new libraries like **Framer Motion** for enhanced animations in web apps
-- 👨‍💻 Working on various **React.js** projects, improving **user experiences** and **UI/UX designs**
+<hr/>
 
----
 
-### 🌱 What I'm learning
-- 🧑‍💻 **Advanced Django REST Framework** for more scalable APIs
-- 🚀 **React Native** to build cross-platform mobile applications
-- 💡 Implementing **Data Visualization** with **Chart.js** and **AG Charts**
+ 
+<div align="center"> 
+  <a href="mailto:saeedmoozhikkal@gmial.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/saeed-nm-62924b23a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
 
----
+ <hr/>
+ 
+<h2 align="center">⚒ Languages-Frameworks-Tools ⚒</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,postgresql,c,java,postman,vercel,redux,django" /><br>
+</div>
 
-### 🛠️ Tech Stack
-- **Languages:** Python, JavaScript, Java, C
-- **Frameworks & Libraries:** Django, React.js, Redux, Tailwind CSS, Bootstrap
-- **Tools:** Git, Docker, PostgreSQL, Figma, Postman, Vercel
-- **Other Skills:** REST APIs, Web Scraping, Redis, Framer Motion
+<br/>
 
----
 
-### 👯 Looking to collaborate on
-- **Open Source Projects** related to Python, React, or full-stack development
-- **Exciting Web Applications** with complex backends and interactive frontends
 
----
+<div align="center">
 
-### 💬 Ask me about
-- How to integrate **Tailwind CSS** with **React**
-- Best practices in **REST API development** with Django
-- **PostgreSQL** database optimization and performance tuning
 
----
-
-### 📫 How to reach me
-- **Email**: saeedhilu@example.com
-- **LinkedIn**: [Saeed NM](https://www.linkedin.com/in/saeedhilu)
-- **Portfolio**: [saeedhilu.com](https://saeedhilu.com)
-
----
-
-### ⚡ Fun fact
-- I started as a **Biology Science student**, and later shifted to the tech world! Now I'm building scalable software solutions. 🌍
+<br/>
